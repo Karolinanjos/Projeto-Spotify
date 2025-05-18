@@ -9,7 +9,7 @@ Este projeto é uma reprodução da interface do Spotify, desenvolvido com HTML 
 
 ## 📸 Preview
 
-![preview](https://drive.google.com/file/d/1VIHGDJ3drQY2z1JDmmFOtbffYf0ibz3a/view?usp=drivesdk)
+![preview]([https://drive.google.com/file/d/1VIHGDJ3drQY2z1JDmmFOtbffYf0ibz3a/view?usp=drivesdk])
 
 ## 🔗 Acesse o projeto online
 
