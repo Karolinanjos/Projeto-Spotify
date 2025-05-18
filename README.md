@@ -9,11 +9,11 @@ Este projeto é uma reprodução da interface do Spotify, desenvolvido com HTML 
 
 ## 📸 Preview
 
-![preview]([https://drive.google.com/file/d/1VIHGDJ3drQY2z1JDmmFOtbffYf0ibz3a/view?usp=drivesdk])
+![preview](https://drive.google.com/file/d/1VIHGDJ3drQY2z1JDmmFOtbffYf0ibz3a/view)
 
 ## 🔗 Acesse o projeto online
 
-👉 [Clique aqui para ver o projeto ao vivo](https://github.com/Karolinanjos/Projeto-Spotify.git)
+👉 [Clique aqui para ver o projeto ao vivo](http://127.0.0.1:5500/index.html)
 
 ## 📁 Estrutura do projeto
 
