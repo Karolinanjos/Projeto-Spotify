@@ -12,7 +12,7 @@ Este projeto é uma reprodução da interface do Spotify, desenvolvido com HTML 
 
 ## 🔗 Acesse o projeto online
 
-👉 [Clique aqui para ver o projeto ao vivo](http://127.0.0.1:3000/index.html)
+👉 [Clique aqui para ver o projeto ao vivo]( https://karolinanjos.github.io/Projeto-Spotify/)
 
 ## 📁 Estrutura do projeto
 
